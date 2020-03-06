@@ -9,14 +9,14 @@
 
 ## Cara Install
 
-git clone https://github.com/asep991/laravel-vuetify.git
-cd laravel-vuetify
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan serve
+    git clone https://github.com/asep991/laravel-vuetify.git
+    cd laravel-vuetify
+    composer install
+    cp .env.example .env
+    php artisan key:generate
+    php artisan serve
 
-buka http://localhost:8000 di web browser
+    kemudian buka http://localhost:8000 di web browser
 
 ## Review
 
